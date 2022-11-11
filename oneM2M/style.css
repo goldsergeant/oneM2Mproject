@@ -33,6 +33,9 @@ header {
   user-select: none;
   transition: 0.4s;
 }
+form{
+  text-align: center;
+}
 /* 드롭 반응 */
 .dropBox.active {
   background: #ddd;

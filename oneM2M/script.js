@@ -49,5 +49,8 @@ document.getElementById('btn-upload').addEventListener('click',(e)=>{
     document.getElementById('file').click();
 });
 function changeValue(obj) {
-    alert(obj.value);
+    var file=obj.files[0].name;
+    $drop.innerHTML = "<p>" + file + "</p>";
+    $drop.style.textAlign = "center";
+    $drop.style.textAlign="center";
 }
