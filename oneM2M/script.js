@@ -1,5 +1,6 @@
 const $drop = document.querySelector(".dropBox");
 const $title = document.querySelector(".dropBox h1");
+var file;
 
 // 드래그한 파일 객체가 해당 영역에 놓였을 때
 $drop.ondrop = (e) => {
@@ -9,7 +10,7 @@ $drop.ondrop = (e) => {
     // 파일 리스트
     const files = [...e.dataTransfer?.files];
 
-    $title.innerHTML = files.map(v => v.name).join("<br>");
+
 }
 
 // ondragover 이벤트가 없으면 onDrop 이벤트가 실핻되지 않습니다.
@@ -30,27 +31,34 @@ $drop.ondragleave = (e) => {
 
     $drop.classList.remove("active");
 }
-
+//파일을 떨어뜨렸을때
 $drop.addEventListener('drop', function (e) {
     e.preventDefault();
     console.log('drop');
     console.dir(e.dataTransfer);
 
-    var data = e.dataTransfer.files[0];
-    console.dir(data);
-    $drop.innerHTML = "<p>" + e.dataTransfer.files[0].name + "</p>";
+    file = e.dataTransfer.files[0];
+    console.dir(file);
+    let p=document.createElement('p');
+    p.innerHTML=file.name;
+    $drop.appendChild(p);
     this.style.textAlign = "center";
-
+    this.removeChild(document.getElementById('btn-choose'));
+    document.getElementById('file').files=e.dataTransfer.files;
 })
 
-document.getElementById('btn-upload').addEventListener('click',(e)=>{
+document.getElementById('btn-choose').addEventListener('click',(e)=>{
     e.preventDefault();
-    console.log('버튼 클릭');
     document.getElementById('file').click();
 });
 function changeValue(obj) {
-    var file=obj.files[0].name;
-    $drop.innerHTML = "<p>" + file + "</p>";
-    $drop.style.textAlign = "center";
+    file=obj.files[0];
+    let p=document.createElement('p');
+    p.innerHTML=file.name;
+    $drop.appendChild(p);
+    $drop.removeChild(document.getElementById('btn-choose'));
     $drop.style.textAlign="center";
+}
+function upload(){
+    console.log(document.getElementById('file').files[0]);
 }
