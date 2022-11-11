@@ -1,0 +1,6500 @@
+[
+    {
+        "shortname": "dTDPr",
+        "attribute": "device3DPrinter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deACr",
+        "attribute": "deviceAirConditioner",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deAHr",
+        "attribute": "deviceAirHeater",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deAPr",
+        "attribute": "deviceAirPurifier",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dAQMr",
+        "attribute": "deviceAirQualityMonitor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deARr",
+        "attribute": "deviceAudioReceiver",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dBPMr",
+        "attribute": "deviceBloodPressureMonitor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devCa",
+        "attribute": "deviceCamera",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deCDr",
+        "attribute": "deviceClothesDryer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deCWr",
+        "attribute": "deviceClothesWasher",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dCWDr",
+        "attribute": "deviceClothesWasherDryer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deCMe",
+        "attribute": "deviceCoffeeMachine",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deCHd",
+        "attribute": "deviceCookerHood",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devCp",
+        "attribute": "deviceCooktop",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devDr",
+        "attribute": "deviceDehumidifier",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deDWr",
+        "attribute": "deviceDishWasher",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devD0",
+        "attribute": "deviceDoor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deDLk",
+        "attribute": "deviceDoorLock",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deEMe",
+        "attribute": "deviceElectricMotorcycle",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dEVCr",
+        "attribute": "deviceElectricVehicleCharger",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devFn",
+        "attribute": "deviceFan",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deFPe",
+        "attribute": "deviceFoodProbe",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devFr",
+        "attribute": "deviceFreezer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devGr",
+        "attribute": "deviceGlucosemeter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dHRMr",
+        "attribute": "deviceHeartRateMonitor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dHCCT",
+        "attribute": "deviceHomeCCTV",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devHr",
+        "attribute": "deviceHumidifier",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devJr",
+        "attribute": "deviceJuicer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devKe",
+        "attribute": "deviceKettle",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devLt",
+        "attribute": "deviceLight",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devMn",
+        "attribute": "deviceMicrogeneration",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dMFPr",
+        "attribute": "deviceMultiFunctionPrinter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deOLp",
+        "attribute": "deviceOutdoorLamp",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devOn",
+        "attribute": "deviceOven",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devPr",
+        "attribute": "devicePrinter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dePOr",
+        "attribute": "devicePulseOximeter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devRr",
+        "attribute": "deviceRefrigerator",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deRCr",
+        "attribute": "deviceRobotCleaner",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devSr",
+        "attribute": "deviceScanner",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deSPl",
+        "attribute": "deviceSecurityPanel",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dSTBx",
+        "attribute": "deviceSetTopBox",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deSWr",
+        "attribute": "deviceShoesWasher",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dSEMr",
+        "attribute": "deviceSmartElectricMeter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deSPg",
+        "attribute": "deviceSmartPlug",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deSCt",
+        "attribute": "deviceSteamCloset",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deSBy",
+        "attribute": "deviceStorageBattery",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devSh",
+        "attribute": "deviceSwitch",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devTn",
+        "attribute": "deviceTelevision",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devTr",
+        "attribute": "deviceThermometer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "devTt",
+        "attribute": "deviceThermostat",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deWHr",
+        "attribute": "deviceWaterHeater",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deWVe",
+        "attribute": "deviceWaterValve",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dWSAB",
+        "attribute": "deviceWeightScaleAndBodyCompositionAnalyser",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deWSe",
+        "attribute": "deviceWindowShade",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deBWr",
+        "attribute": "deviceBottleWarmer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deGDp",
+        "attribute": "deviceGarbageDisposal",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deWPr",
+        "attribute": "deviceWaterPurifier",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "fleNe",
+        "attribute": "flexNode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuff",
+        "attribute": "cuff",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "powOt",
+        "attribute": "powerOutlet",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "suDCf",
+        "attribute": "subDeviceCuff",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sDPOt",
+        "attribute": "subDevicePowerOutlet",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dANIo",
+        "attribute": "dmAreaNwkInfo",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "thDPr",
+        "attribute": "3DPrinter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "acoSr",
+        "attribute": "acousticSensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "aCOM0",
+        "attribute": "airCleanOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "aCJMe",
+        "attribute": "airConJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "aCOMe",
+        "attribute": "airConOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "airFw",
+        "attribute": "airFlow",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "aPJMe",
+        "attribute": "airPurifierJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "aPOMe",
+        "attribute": "airPurifierOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "aiQSr",
+        "attribute": "airQualitySensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "alaSr",
+        "attribute": "alarmSpeaker",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "audVe",
+        "attribute": "audioVolume",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "auDFr",
+        "attribute": "autoDocumentFeeder",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "bat",
+        "attribute": "battery",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "binOt",
+        "attribute": "binaryObject",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "binSh",
+        "attribute": "binarySwitch",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "bEIAs",
+        "attribute": "bioElectricalImpedanceAnalysis",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "boCAr",
+        "attribute": "bodyCompositionAnalyser",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "boilr",
+        "attribute": "boiler",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "boiSh",
+        "attribute": "boilingSwitch",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "brewg",
+        "attribute": "brewing",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "breSh",
+        "attribute": "brewingSwitch",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "brigs",
+        "attribute": "brightness",
+        "occursIn": [
+            "brightness",
+            "n/a"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "chanl",
+        "attribute": "channel",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "clock",
+        "attribute": "clock",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cDJMe",
+        "attribute": "clothesDryerJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cDOMe",
+        "attribute": "clothesDryerOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cWDJM",
+        "attribute": "clothesWasherDryerJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cWDOM",
+        "attribute": "clothesWasherDryerOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cWJMe",
+        "attribute": "clothesWasherJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cWJMO",
+        "attribute": "clothesWasherJobModeOption",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cWOMe",
+        "attribute": "clothesWasherOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "color",
+        "attribute": "colour",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "colSn",
+        "attribute": "colourSaturation",
+        "occursIn": [
+            "colourSaturation",
+            "n/a"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "coPLk",
+        "attribute": "controlPanelLock",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cHJMe",
+        "attribute": "cookerHoodJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "creds",
+        "attribute": "credentials",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cusTe",
+        "attribute": "customTemperature",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dgt",
+        "attribute": "dataGenerationTime",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deJMe",
+        "attribute": "dehumidifierJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deOMe",
+        "attribute": "dehumidifierOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dWJMe",
+        "attribute": "dishWasherJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmAgt",
+        "attribute": "dmAgent",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dANDo",
+        "attribute": "dmAreaNwkDeviceInfo",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmCay",
+        "attribute": "dmCapability",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dDMIO",
+        "attribute": "dmDataModelIO",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmDIo",
+        "attribute": "dmDeviceInfo",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmELg",
+        "attribute": "dmEventLog",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmFie",
+        "attribute": "dmFirmware",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmPae",
+        "attribute": "dmPackage",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmSoe",
+        "attribute": "dmSoftware",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dmSte",
+        "attribute": "dmStorage",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dooLk",
+        "attribute": "doorLock",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dooSs",
+        "attribute": "doorStatus",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "elVCr",
+        "attribute": "electricVehicleConnector",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "eneCn",
+        "attribute": "energyConsumption",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "eneGn",
+        "attribute": "energyGeneration",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "fauDn",
+        "attribute": "faultDetection",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "feats",
+        "attribute": "features",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "filIo",
+        "attribute": "filterInfo",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "foamg",
+        "attribute": "foaming",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "friTe",
+        "attribute": "fridgeTemperature",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "froTe",
+        "attribute": "frozenTemperature",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "geoLn",
+        "attribute": "geoLocation",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "glucr",
+        "attribute": "glucometer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "grinr",
+        "attribute": "grinder",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "heaZe",
+        "attribute": "heatingZone",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "heigt",
+        "attribute": "height",
+        "occursIn": [
+            "height",
+            "n/a"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "hoWSy",
+        "attribute": "hotWaterSupply",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "impSr",
+        "attribute": "impactSensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "keeWm",
+        "attribute": "keepWarm",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "keypd",
+        "attribute": "keypad",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "liqLl",
+        "attribute": "liquidLevel",
+        "occursIn": [
+            "liquidLevel",
+            "n/a"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "liqRg",
+        "attribute": "liquidRemaining",
+        "occursIn": [
+            "liquidRemaining",
+            "n/a"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "locan",
+        "attribute": "location",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "loca0",
+        "attribute": "localization",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "lock",
+        "attribute": "lock",
+        "occursIn": [
+            "lock",
+            "n/a"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "medIt",
+        "attribute": "mediaInput",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "medOt",
+        "attribute": "mediaOutput",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "medSt",
+        "attribute": "mediaSelect",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "milFg",
+        "attribute": "milkFoaming",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "milQy",
+        "attribute": "milkQuantity",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "milSs",
+        "attribute": "milkStatus",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "motSr",
+        "attribute": "motionSensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "numVe",
+        "attribute": "numberValue",
+        "occursIn": [
+            "n/a",
+            "numberValue"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "opeLl",
+        "attribute": "openLevel",
+        "occursIn": [
+            "n/a",
+            "openLevel"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "opeMe",
+        "attribute": "operationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "orign",
+        "attribute": "origin",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "oveSr",
+        "attribute": "overcurrentSensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "oximr",
+        "attribute": "oximeter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "ozoMr",
+        "attribute": "ozoneMeter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "phoCl",
+        "attribute": "phoneCall",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "plaCl",
+        "attribute": "playerControl",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "powS0",
+        "attribute": "powerSave",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "prRSe",
+        "attribute": "printerRunState",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priQe",
+        "attribute": "printQueue",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "pulsr",
+        "attribute": "pulsemeter",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "pusBn",
+        "attribute": "pushButton",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "recor",
+        "attribute": "recorder",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "refrn",
+        "attribute": "refrigeration",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "relHy",
+        "attribute": "relativeHumidity",
+        "occursIn": [
+            "n/a",
+            "relativeHumidity"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "reCEe",
+        "attribute": "remoteControlEnable",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "rCJMe",
+        "attribute": "robotCleanerJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "rCOMe",
+        "attribute": "robotCleanerOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "runSe",
+        "attribute": "runState",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "scRSe",
+        "attribute": "scannerRunState",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "secMe",
+        "attribute": "securityMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sesDn",
+        "attribute": "sessionDescription",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sigSh",
+        "attribute": "signalStrength",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sleTr",
+        "attribute": "sleepTimer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "smoSr",
+        "attribute": "smokeSensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sphyr",
+        "attribute": "sphygmomanometer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "spiLl",
+        "attribute": "spinLevel",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sCJMe",
+        "attribute": "steamClosetJobMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sCOMe",
+        "attribute": "steamClosetOperationMode",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "telCl",
+        "attribute": "televisionChannel",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tempe",
+        "attribute": "temperature",
+        "occursIn": [
+            "n/a",
+            "temperatureAlarm"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "temAm",
+        "attribute": "temperatureAlarm",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "texMe",
+        "attribute": "textMessage",
+        "occursIn": [
+            "n/a",
+            "textMessage"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "timer",
+        "attribute": "timer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "turbo",
+        "attribute": "turbo",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "uveSr",
+        "attribute": "uvSensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "waFIo",
+        "attribute": "waterFilterInfo",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "watFw",
+        "attribute": "waterFlow",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "watSr",
+        "attribute": "waterSensor",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "watSs",
+        "attribute": "waterStatus",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "weigt",
+        "attribute": "weight",
+        "occursIn": [
+            "n/a",
+            "weight"
+        ],
+        "categories": [
+            "Resource attribute short names",
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "actie",
+        "attribute": "activate",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "acCTr",
+        "attribute": "activateClockTimer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "answr",
+        "attribute": "answer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "call",
+        "attribute": "call",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "close",
+        "attribute": "close",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deace",
+        "attribute": "deactivate",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deCTr",
+        "attribute": "deactivateClockTimer",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "deNVe",
+        "attribute": "decrementNumberValue",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "depPe",
+        "attribute": "deployPackage",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "disae",
+        "attribute": "disable",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dowCl",
+        "attribute": "downChannel",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dowVe",
+        "attribute": "downVolume",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "enabe",
+        "attribute": "enable",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "formt",
+        "attribute": "format",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "hangp",
+        "attribute": "hangup",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "inNVe",
+        "attribute": "incrementNumberValue",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "instl",
+        "attribute": "install",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "nexTk",
+        "attribute": "nextTrack",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "open",
+        "attribute": "open",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "preTk",
+        "attribute": "previousTrack",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "rebot",
+        "attribute": "reboot",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "reaIO",
+        "attribute": "readIO",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "reNVe",
+        "attribute": "resetNumberValue",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "reTMe",
+        "attribute": "resetTextMessage",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "staDt",
+        "attribute": "start3Dprint",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "stoDt",
+        "attribute": "stop3Dprint",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "togge",
+        "attribute": "toggle",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "uninl",
+        "attribute": "uninstall",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "unmot",
+        "attribute": "unmount",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "uphCl",
+        "attribute": "upChannel",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "updFe",
+        "attribute": "updateFirmware",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "upoVe",
+        "attribute": "upVolume",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "wriIO",
+        "attribute": "writeIO",
+        "occursIn": [
+            "n/a"
+        ],
+        "categories": [
+            "Specialization type short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "abECn",
+        "attribute": "absoluteEnergyConsumption",
+        "occursIn": [
+            "energyConsumption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "abSTe",
+        "attribute": "absoluteStartTime",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "abST0",
+        "attribute": "absoluteStopTime",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "acoSs",
+        "attribute": "acousticStatus",
+        "occursIn": [
+            "acousticSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "adfSs",
+        "attribute": "adfStates",
+        "occursIn": [
+            "autoDocumentFeeder"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "alarm",
+        "attribute": "alarm",
+        "occursIn": [
+            "motionSensor",
+            "smokeSensor",
+            "temperatureAlarm",
+            "waterSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "alaSs",
+        "attribute": "alarmStatus",
+        "occursIn": [
+            "alarmSpeaker"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "altie",
+        "attribute": "altitude",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "autoe",
+        "attribute": "automode",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "avaCs",
+        "attribute": "availableChannels",
+        "occursIn": [
+            "televisionChannel"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "basMm",
+        "attribute": "basalMetabolism",
+        "occursIn": [
+            "bodyCompositionAnalyser"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "bath",
+        "attribute": "bath",
+        "occursIn": [
+            "hotWaterSupply"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "batTd",
+        "attribute": "batteryThreshold",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "blue",
+        "attribute": "blue",
+        "occursIn": [
+            "colour"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "bmi",
+        "attribute": "bmi",
+        "occursIn": [
+            "bodyCompositionAnalyser"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "bodLh",
+        "attribute": "bodyLength",
+        "occursIn": [
+            "bodyCompositionAnalyser"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "bone",
+        "attribute": "bone",
+        "occursIn": [
+            "bioElectricalImpedanceAnalysis"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "calID",
+        "attribute": "callerID",
+        "occursIn": [
+            "phoneCall"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "calSe",
+        "attribute": "callState",
+        "occursIn": [
+            "phoneCall"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "capay",
+        "attribute": "capacity",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "ch2o",
+        "attribute": "ch2o",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "chaId",
+        "attribute": "channelId",
+        "occursIn": [
+            "televisionChannel"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "chaNe",
+        "attribute": "channelName",
+        "occursIn": [
+            "televisionChannel"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "charg",
+        "attribute": "charging",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "chaCy",
+        "attribute": "chargingCapacity",
+        "occursIn": [
+            "electricVehicleConnector"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "co",
+        "attribute": "co",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "co2",
+        "attribute": "co2",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "coars",
+        "attribute": "coarseness",
+        "occursIn": [
+            "grinder"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "code",
+        "attribute": "code",
+        "occursIn": [
+            "faultDetection",
+            "filterInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "colWh",
+        "attribute": "coldWash",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "compt",
+        "attribute": "component",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "concn",
+        "attribute": "concentration",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "coCAt",
+        "attribute": "contextCarbohydratesAmount",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "coCSe",
+        "attribute": "contextCarbohydratesSource",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "conEe",
+        "attribute": "contextExercise",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "conHh",
+        "attribute": "contextHealth",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "conLn",
+        "attribute": "contextLocation",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "conMl",
+        "attribute": "contextMeal",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "conMn",
+        "attribute": "contextMedication",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "conTr",
+        "attribute": "contextTester",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "couny",
+        "attribute": "country",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cpuUe",
+        "attribute": "cpuUsage",
+        "occursIn": [
+            "dmAgent"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cupNr",
+        "attribute": "cupsNumber",
+        "occursIn": [
+            "brewing"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "currt",
+        "attribute": "current",
+        "occursIn": [
+            "energyConsumption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuASe",
+        "attribute": "currentAdfState",
+        "occursIn": [
+            "autoDocumentFeeder"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "curDe",
+        "attribute": "currentDate",
+        "occursIn": [
+            "clock"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuJMe",
+        "attribute": "currentJobMode",
+        "occursIn": [
+            "airConJobMode",
+            "airPurifierJobMode",
+            "clothesDryerJobMode",
+            "clothesWasherDryerJobMode",
+            "clothesWasherJobMode",
+            "cookerHoodJobMode",
+            "dehumidifierJobMode",
+            "dishWasherJobMode",
+            "robotCleanerJobMode",
+            "steamClosetJobMode"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cJMNe",
+        "attribute": "currentJobModeName",
+        "occursIn": [
+            "airConJobMode",
+            "airPurifierJobMode",
+            "clothesDryerJobMode",
+            "clothesWasherDryerJobMode",
+            "clothesWasherJobMode",
+            "cookerHoodJobMode",
+            "dehumidifierJobMode",
+            "dishWasherJobMode",
+            "robotCleanerJobMode",
+            "steamClosetJobMode"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuJSe",
+        "attribute": "currentJobState",
+        "occursIn": [
+            "runState"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuMSe",
+        "attribute": "currentMachineState",
+        "occursIn": [
+            "runState"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuPMe",
+        "attribute": "currentPlayerMode",
+        "occursIn": [
+            "playerControl"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cPMNe",
+        "attribute": "currentPlayerModeName",
+        "occursIn": [
+            "playerControl"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuSMe",
+        "attribute": "currentSecurityMode",
+        "occursIn": [
+            "securityMode"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "curT0",
+        "attribute": "currentTemperature",
+        "occursIn": [
+            "temperature"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "curTe",
+        "attribute": "currentTime",
+        "occursIn": [
+            "clock"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "cuTZe",
+        "attribute": "currentTimeZone",
+        "occursIn": [
+            "clock"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "crv",
+        "attribute": "currentValue",
+        "occursIn": [
+            "smokeSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "data",
+        "attribute": "data",
+        "occursIn": [
+            "dmEventLog"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "daMTe",
+        "attribute": "dataModelType",
+        "occursIn": [
+            "dmDataModelIO"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "daSID",
+        "attribute": "dataSourceID",
+        "occursIn": [
+            "origin"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "datTe",
+        "attribute": "dataType",
+        "occursIn": [
+            "origin"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "defVe",
+        "attribute": "defaultValue",
+        "occursIn": [
+            "numberValue",
+            "textMessage"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "defrt",
+        "attribute": "defrost",
+        "occursIn": [
+            "refrigeration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dc",
+        "attribute": "description",
+        "occursIn": [
+            "dmDeviceInfo",
+            "faultDetection",
+            "localization"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "desHy",
+        "attribute": "desiredHumidity",
+        "occursIn": [
+            "relativeHumidity"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "detTe",
+        "attribute": "detectedTime",
+        "occursIn": [
+            "overcurrentSensor",
+            "smokeSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "diaPe",
+        "attribute": "diastolicPressure",
+        "occursIn": [
+            "sphygmomanometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "discg",
+        "attribute": "discharging",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "disCy",
+        "attribute": "dischargingCapacity",
+        "occursIn": [
+            "electricVehicleConnector"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dooSe",
+        "attribute": "doorState",
+        "occursIn": [
+            "doorStatus"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "dur",
+        "attribute": "duration",
+        "occursIn": [
+            "overcurrentSensor",
+            "recorder"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "eleEy",
+        "attribute": "electricEnergy",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "enabd",
+        "attribute": "enabled",
+        "occursIn": [
+            "dmEventLog"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "enery",
+        "attribute": "energy",
+        "occursIn": [
+            "pulsemeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "eTTEd",
+        "attribute": "estimatedTimeToEnd",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "extRe",
+        "attribute": "extraRinse",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "fat",
+        "attribute": "fat",
+        "occursIn": [
+            "bioElectricalImpedanceAnalysis"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "faFMs",
+        "attribute": "fatFreeMass",
+        "occursIn": [
+            "bodyCompositionAnalyser"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "filLe",
+        "attribute": "filterLifetime",
+        "occursIn": [
+            "filterInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "foaSh",
+        "attribute": "foamingStrength",
+        "occursIn": [
+            "foaming"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "freqy",
+        "attribute": "frequency",
+        "occursIn": [
+            "energyConsumption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "friNe",
+        "attribute": "friendlyName",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "friLn",
+        "attribute": "friendlyLocation",
+        "occursIn": [
+            "localization",
+            "location"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "fweVn",
+        "attribute": "fwVersion",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "genSe",
+        "attribute": "generationSource",
+        "occursIn": [
+            "energyGeneration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "geoJN",
+        "attribute": "geoJSON",
+        "occursIn": [
+            "location"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "graRg",
+        "attribute": "grainsRemaining",
+        "occursIn": [
+            "grinder"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "green",
+        "attribute": "green",
+        "occursIn": [
+            "colour"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "hash",
+        "attribute": "hash",
+        "occursIn": [
+            "binaryObject"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "hba1c",
+        "attribute": "hba1c",
+        "occursIn": [
+            "glucometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "headg",
+        "attribute": "heading",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "heaAy",
+        "attribute": "headingAccuracy",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "heaLl",
+        "attribute": "heatingLevel",
+        "occursIn": [
+            "heatingZone"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "horAy",
+        "attribute": "horizontalAccuracy",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "horDn",
+        "attribute": "horizontalDirection",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "hweVn",
+        "attribute": "hwVersion",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "imDHl",
+        "attribute": "impactDirectionHorizontal",
+        "occursIn": [
+            "impactSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "imDVl",
+        "attribute": "impactDirectionVertical",
+        "occursIn": [
+            "impactSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "impLl",
+        "attribute": "impactLevel",
+        "occursIn": [
+            "impactSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "impSs",
+        "attribute": "impactStatus",
+        "occursIn": [
+            "impactSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "impee",
+        "attribute": "impedance",
+        "occursIn": [
+            "bodyCompositionAnalyser"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "jobMs",
+        "attribute": "jobModes",
+        "occursIn": [
+            "",
+            "airConJobMode",
+            "airPurifierJobMode",
+            "clothesWasherDryerJobMode",
+            "clothesWasherJobMode",
+            "cookerHoodJobMode",
+            "dehumidifierJobMode",
+            "dishWasherJobMode",
+            "robotCleanerJobMode steamClosetJobMode"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "jobSs",
+        "attribute": "jobStates",
+        "occursIn": [
+            "runState"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "kcal",
+        "attribute": "kcal",
+        "occursIn": [
+            "bioElectricalImpedanceAnalysis"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "keyNr",
+        "attribute": "keyNumber",
+        "occursIn": [
+            "keypad"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "latie",
+        "attribute": "latitude",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "lvl",
+        "attribute": "level",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "light",
+        "attribute": "light",
+        "occursIn": [
+            "alarmSpeaker"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "locae",
+        "attribute": "locale",
+        "occursIn": [
+            "location"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "logNe",
+        "attribute": "loginName",
+        "occursIn": [
+            "credentials"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "longe",
+        "attribute": "longitude",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "louds",
+        "attribute": "loudness",
+        "occursIn": [
+            "acousticSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "lowBy",
+        "attribute": "lowBattery",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "lqi",
+        "attribute": "lqi",
+        "occursIn": [
+            "signalStrength"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "macSs",
+        "attribute": "machineStates",
+        "occursIn": [
+            "runState"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "manur",
+        "attribute": "manufacturer",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "maDLk",
+        "attribute": "manufacturerDetailsLink",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "manDe",
+        "attribute": "manufacturingDate",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "matel",
+        "attribute": "material",
+        "occursIn": [
+            "battery"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "maHLl",
+        "attribute": "maxHeatingLevel",
+        "occursIn": [
+            "heatingZone"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "maxLh",
+        "attribute": "maxLength",
+        "occursIn": [
+            "textMessage"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "maxLl",
+        "attribute": "maxLevel",
+        "occursIn": [
+            "openLevel"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "maxSd",
+        "attribute": "maxSpeed",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "maxVe",
+        "attribute": "maxValue",
+        "occursIn": [
+            "audioVolume",
+            "numberValue",
+            "ozoneMeter",
+            "temperature"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "meaPe",
+        "attribute": "meanPressure",
+        "occursIn": [
+            "sphygmomanometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "meaSe",
+        "attribute": "measuringScope",
+        "occursIn": [
+            "energyConsumption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "medID",
+        "attribute": "mediaID",
+        "occursIn": [
+            "mediaSelect"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "medNe",
+        "attribute": "mediaName",
+        "occursIn": [
+            "mediaSelect"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "medTe",
+        "attribute": "mediaType",
+        "occursIn": [
+            "mediaSelect"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "memSe",
+        "attribute": "memorySize",
+        "occursIn": [
+            "3Dprinter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "mesEg",
+        "attribute": "messageEncoding",
+        "occursIn": [
+            "textMessage"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "metaa",
+        "attribute": "metadata",
+        "occursIn": [
+            "features"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "minLh",
+        "attribute": "minLength",
+        "occursIn": [
+            "textMessage"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "minLl",
+        "attribute": "minLevel",
+        "occursIn": [
+            "openLevel"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "minSd",
+        "attribute": "minSpeed",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "minVe",
+        "attribute": "minValue",
+        "occursIn": [
+            "numberValue",
+            "temperature"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "moday",
+        "attribute": "modality",
+        "occursIn": [
+            "pulsemeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "model",
+        "attribute": "model",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "monEd",
+        "attribute": "monitoringEnabled",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "mulFe",
+        "attribute": "multiFirmware",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "mulFs",
+        "attribute": "multiplyingFactors",
+        "occursIn": [
+            "energyConsumption",
+            "energyGeneration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "musce",
+        "attribute": "muscle",
+        "occursIn": [
+            "bioElectricalImpedanceAnalysis"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "musMs",
+        "attribute": "muscleMass",
+        "occursIn": [
+            "bodyCompositionAnalyser"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "mutEd",
+        "attribute": "muteEnabled",
+        "occursIn": [
+            "audioVolume"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "name",
+        "attribute": "name",
+        "occursIn": [
+            "deployPackage",
+            "dmPackage",
+            "dmSoftware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "netwk",
+        "attribute": "network",
+        "occursIn": [
+            "3Dprinter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "objet",
+        "attribute": "object",
+        "occursIn": [
+            "binaryObject"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "objTe",
+        "attribute": "objectType",
+        "occursIn": [
+            "binaryObject"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "opeAm",
+        "attribute": "openAlarm",
+        "occursIn": [
+            "doorStatus"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "opeDn",
+        "attribute": "openDuration",
+        "occursIn": [
+            "doorStatus"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "oriID",
+        "attribute": "originID",
+        "occursIn": [
+            "origin"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "oseVn",
+        "attribute": "osVersion",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "oveSs",
+        "attribute": "overcurrentStatus",
+        "occursIn": [
+            "overcurrentSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "oxySn",
+        "attribute": "oxygenSaturation",
+        "occursIn": [
+            "oximeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "ozoSs",
+        "attribute": "ozoneStatus",
+        "occursIn": [
+            "ozoneMeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "ozVMG",
+        "attribute": "ozoneValueMG",
+        "occursIn": [
+            "ozoneMeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "oVPPM",
+        "attribute": "ozoneValuePPM",
+        "occursIn": [
+            "ozoneMeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "pwd",
+        "attribute": "password",
+        "occursIn": [
+            "credentials"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "posAs",
+        "attribute": "postalAddress",
+        "occursIn": [
+            "location"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "power",
+        "attribute": "power",
+        "occursIn": [
+            "energyConsumption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "poGDa",
+        "attribute": "powerGenerationData",
+        "occursIn": [
+            "energyGeneration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "poSEd",
+        "attribute": "powerSaveEnabled",
+        "occursIn": [
+            "powerSave"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "powSe",
+        "attribute": "powerState",
+        "occursIn": [
+            "binarySwitch"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "powSs",
+        "attribute": "powerStatus",
+        "occursIn": [
+            "dmAgent"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "precn",
+        "attribute": "precision",
+        "occursIn": [
+            "features"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "prURL",
+        "attribute": "presentationURL",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "preCl",
+        "attribute": "previousChannel",
+        "occursIn": [
+            "televisionChannel"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "preWh",
+        "attribute": "preWash",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priNe",
+        "attribute": "primaryName",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priSe",
+        "attribute": "primaryState",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priUl",
+        "attribute": "primaryUrl",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priVn",
+        "attribute": "primaryVersion",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priS0",
+        "attribute": "printingState",
+        "occursIn": [
+            "printQueue"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priSX",
+        "attribute": "printSizeX",
+        "occursIn": [
+            "3Dprinter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priSY",
+        "attribute": "printSizeY",
+        "occursIn": [
+            "3Dprinter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priSZ",
+        "attribute": "printSizeZ",
+        "occursIn": [
+            "3Dprinter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "priTe",
+        "attribute": "printType",
+        "occursIn": [
+            "3Dprinter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "proPe",
+        "attribute": "progressPercentage",
+        "occursIn": [
+            "runState"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "pulRe",
+        "attribute": "pulseRate",
+        "occursIn": [
+            "pulsemeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "pushd",
+        "attribute": "pushed",
+        "occursIn": [
+            "pushButton"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "ramAe",
+        "attribute": "ramAvailable",
+        "occursIn": [
+            "dmAgent"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "ramTl",
+        "attribute": "ramTotal",
+        "occursIn": [
+            "dmAgent"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "rapCl",
+        "attribute": "rapidCool",
+        "occursIn": [
+            "refrigeration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "rapFe",
+        "attribute": "rapidFreeze",
+        "occursIn": [
+            "refrigeration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "recID",
+        "attribute": "recipientID",
+        "occursIn": [
+            "phoneCall"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "red",
+        "attribute": "red",
+        "occursIn": [
+            "colour"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "refTr",
+        "attribute": "referenceTimer",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "reliy",
+        "attribute": "reliability",
+        "occursIn": [
+            "features"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "reCEd",
+        "attribute": "remoteControlEnabled",
+        "occursIn": [
+            "remoteControlEnable"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "resie",
+        "attribute": "resistance",
+        "occursIn": [
+            "bioElectricalImpedanceAnalysis"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "room",
+        "attribute": "room",
+        "occursIn": [
+            "location"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "roECn",
+        "attribute": "roundingEnergyConsumption",
+        "occursIn": [
+            "energyConsumption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "roEGn",
+        "attribute": "roundingEnergyGeneration",
+        "occursIn": [
+            "energyGeneration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "r0",
+        "attribute": "rr",
+        "occursIn": [
+            "pulsemeter"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "rssi",
+        "attribute": "rssi",
+        "occursIn": [
+            "signalStrength"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "runTe",
+        "attribute": "runningTime",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sdp",
+        "attribute": "sdp",
+        "occursIn": [
+            "sessionDescription"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "secNe",
+        "attribute": "secondaryName",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "secSe",
+        "attribute": "secondaryState",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "secUl",
+        "attribute": "secondaryUrl",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "secVn",
+        "attribute": "secondaryVersion",
+        "occursIn": [
+            "dmFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "secMs",
+        "attribute": "securityModes",
+        "occursIn": [
+            "securityMode"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sensy",
+        "attribute": "sensitivity",
+        "occursIn": [
+            "motionSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "senHy",
+        "attribute": "sensorHumidity",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "senOr",
+        "attribute": "sensorOdor",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sePM1",
+        "attribute": "sensorPM1",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sePM0",
+        "attribute": "sensorPM10",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "serNr",
+        "attribute": "serialNumber",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sePM2",
+        "attribute": "sensorPM2",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sigDs",
+        "attribute": "significantDigits",
+        "occursIn": [
+            "energyConsumption",
+            "energyGeneration"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "silTe",
+        "attribute": "silentTime",
+        "occursIn": [
+            "motionSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "size",
+        "attribute": "size",
+        "occursIn": [
+            "binaryObject",
+            "features"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "smoTd",
+        "attribute": "smokeThreshhold",
+        "occursIn": [
+            "smokeSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "soLMs",
+        "attribute": "softLeanMass",
+        "occursIn": [
+            "bodyCompositionAnalyser"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "soiLl",
+        "attribute": "soilLevel",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "speed",
+        "attribute": "speed",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "speFr",
+        "attribute": "speedFactor",
+        "occursIn": [
+            "playerControl"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "speWh",
+        "attribute": "speedWash",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "spLSh",
+        "attribute": "spinLevelStrength",
+        "occursIn": [
+            "spinLevel"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "spiSd",
+        "attribute": "spinSpeed",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "staPe",
+        "attribute": "startPause",
+        "occursIn": [
+            "operationMode"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "state",
+        "attribute": "state",
+        "occursIn": [
+            "dmAgent",
+            "dmPackage",
+            "dmSoftware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sus",
+        "attribute": "status",
+        "occursIn": [
+            "boiler",
+            "dmEventLog",
+            "electricVehicleConnector",
+            "faultDetection",
+            "filterInf",
+            "mediaSelect"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "steTt",
+        "attribute": "steamTreat",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "step",
+        "attribute": "step",
+        "occursIn": [
+            "numberValue"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "steVe",
+        "attribute": "stepValue",
+        "occursIn": [
+            "audioVolume",
+            "openLevel",
+            "temperature"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "stoAe",
+        "attribute": "storageAvailable",
+        "occursIn": [
+            "dmAgent"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "stoTl",
+        "attribute": "storageTotal",
+        "occursIn": [
+            "dmAgent"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "streh",
+        "attribute": "strength",
+        "occursIn": [
+            "brewing"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "subMl",
+        "attribute": "subModel",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "suHDn",
+        "attribute": "supportedHorizontalDirection",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "suMSs",
+        "attribute": "supportedMediaSources",
+        "occursIn": [
+            "mediaSelect"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "suMVs",
+        "attribute": "supportedMessageValues",
+        "occursIn": [
+            "textMessage"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "suPMs",
+        "attribute": "supportedPlayerModes",
+        "occursIn": [
+            "playerControl"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "suVDn",
+        "attribute": "supportedVerticalDirection",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "suURL",
+        "attribute": "supportURL",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sweVn",
+        "attribute": "swVersion",
+        "occursIn": [
+            "dmDeviceInfo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sysTe",
+        "attribute": "systemTime",
+        "occursIn": [
+            "dmAgent"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "sysPe",
+        "attribute": "systolicPressure",
+        "occursIn": [
+            "sphygmomanometer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tarAe",
+        "attribute": "targetAltitude",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tarDn",
+        "attribute": "targetDuration",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tarLe",
+        "attribute": "targetLatitude",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tarL0",
+        "attribute": "targetLongitude",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tarTe",
+        "attribute": "targetTemperature",
+        "occursIn": [
+            "temperature"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tTTSt",
+        "attribute": "targetTimeToStart",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tTTSp",
+        "attribute": "targetTimeToStop",
+        "occursIn": [
+            "timer"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "temTd",
+        "attribute": "temperatureThreshhold",
+        "occursIn": [
+            "temperatureAlarm"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "time",
+        "attribute": "time",
+        "occursIn": [
+            "keepWarm"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tk",
+        "attribute": "token",
+        "occursIn": [
+            "credentials"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "tone",
+        "attribute": "tone",
+        "occursIn": [
+            "alarmSpeaker"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "turEd",
+        "attribute": "turboEnabled",
+        "occursIn": [
+            "turbo"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "type",
+        "attribute": "type",
+        "occursIn": [
+            "dmEventLog"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "unit",
+        "attribute": "unit",
+        "occursIn": [
+            "temperature"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "ur0",
+        "attribute": "uri",
+        "occursIn": [
+            "printQueue"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "url",
+        "attribute": "url",
+        "occursIn": [
+            "deployPackage",
+            "dmPackage",
+            "dmSoftware",
+            "sessionDescription",
+            "update",
+            "updateFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "useGr",
+        "attribute": "useGrinder",
+        "occursIn": [
+            "grinder"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "uvtSs",
+        "attribute": "uvStatus",
+        "occursIn": [
+            "uvSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "uvaVe",
+        "attribute": "uvValue",
+        "occursIn": [
+            "uvSensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "versn",
+        "attribute": "version",
+        "occursIn": [
+            "deployPackage",
+            "dmPackage",
+            "dmSoftware",
+            "update",
+            "updateFirmware"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "verAy",
+        "attribute": "verticalAccuracy",
+        "occursIn": [
+            "geoLocation"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "verDn",
+        "attribute": "verticalDirection",
+        "occursIn": [
+            "airFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "visFt",
+        "attribute": "visceraFat",
+        "occursIn": [
+            "bioElectricalImpedanceAnalysis"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "voc",
+        "attribute": "voc",
+        "occursIn": [
+            "airQualitySensor"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "volte",
+        "attribute": "voltage",
+        "occursIn": [
+            "battery",
+            "energyConsumption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "volPe",
+        "attribute": "volumePercentage",
+        "occursIn": [
+            "audioVolume"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "wasTp",
+        "attribute": "washTemp",
+        "occursIn": [
+            "clothesWasherJobModeOption"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "water",
+        "attribute": "water",
+        "occursIn": [
+            "bioElectricalImpedanceAnalysis"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "waFSh",
+        "attribute": "waterFlowStrength",
+        "occursIn": [
+            "waterFlow"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "addrs",
+        "attribute": "address",
+        "occursIn": [
+            "readIO",
+            "writeIO"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "payld",
+        "attribute": "payload",
+        "occursIn": [
+            "writeIO"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    },
+    {
+        "shortname": "rebTe",
+        "attribute": "rebootType",
+        "occursIn": [
+            "reboot"
+        ],
+        "categories": [
+            "Resource attribute short names"
+        ],
+        "documents": [
+            "./downloadedFile/TS-0023.docx"
+        ]
+    }
+]
