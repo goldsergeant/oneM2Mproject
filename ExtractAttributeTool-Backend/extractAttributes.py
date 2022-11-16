@@ -210,7 +210,7 @@ def processDocuments(documents:list[str], outDirectory:str, csvOut:bool) -> Tupl
 											occurences = 1,
 											occursIn = set([ v for v in occursIn ]),
 											categories = set([ snt.category ]),
-											documents = set([ docName ])
+											documents = set([ os.path.basename(docName) ])
 										)
 					
 					attributes[shortname] = entry
