@@ -38,14 +38,23 @@ def process(filename):
     csvOut = False
     documents = ['./downloadedFile/' + filename]
     attributes, attributesSN = extractAttributes.processDocuments(documents, outDirectory, csvOut)
+    # TODO csv나 dup 옵션 받아서 처리
+    # if not attributes:
+    #     exit(1)
+    # if args.list or args.listDuplicates:
+    #     printAttributeTables(attributes, attributesSN, args.listDuplicates)
+    #     if args.csvOut:
+    #         printAttributeCsv(attributes, args.outDirectory)
+    #         if args.listDuplicates:
+    #             printDuplicateCsv(attributes, attributesSN, args.outDirectory)
     return redirect('/download/' + filename)    
 
 @app.route('/download/<filename>')
 def Download_File(filename):
-    # TODO : 잘못된 파일형식을 받았을 때 처리
     PATH='./out/' + 'attributes.json'
-    
-    return send_file(PATH,as_attachment=True)
+    # TODO 파일 전송하면서 완료 메시지 띄우기
+    render_template('main.html', complete = "파일 다운로드 완료")
+    return send_file(PATH, as_attachment=True)
 		
 if __name__ == '__main__':
     app.run(debug = True)
