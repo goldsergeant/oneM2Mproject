@@ -18,12 +18,18 @@ def file_upload():
         os.remove(file.path)
     for file in os.scandir('./out'):
         os.remove(file.path)
+
     if request.method == 'POST':
         f = request.files['file']
+
+        # file extension check
+        if secure_filename(f.filename).endswith(".docx") == False:
+            return render_template('main.html', error = "docx 파일만 업로드 가능합니다.")
+
         f.save('downloadedFile/' + secure_filename(f.filename))
         return redirect('/process/' + secure_filename(f.filename))
     else: 
-        return render_template('main.html')
+        return redirect('/')
  
 # 파일명 받아서 처리하는 페이지
 @app.route('/process/<filename>')
@@ -32,11 +38,13 @@ def process(filename):
     csvOut = False
     documents = ['./downloadedFile/' + filename]
     attributes, attributesSN = extractAttributes.processDocuments(documents, outDirectory, csvOut)
-    return redirect('/download/' + filename)
+    return redirect('/download/' + filename)    
 
 @app.route('/download/<filename>')
 def Download_File(filename):
+    # TODO : 잘못된 파일형식을 받았을 때 처리
     PATH='./out/' + 'attributes.json'
+    
     return send_file(PATH,as_attachment=True)
 		
 if __name__ == '__main__':
