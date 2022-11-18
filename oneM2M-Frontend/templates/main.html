@@ -17,10 +17,9 @@
             <input type="radio" name="choose" value="CSV" checked>csv
             <input type="radio" name="choose" value="Duplicate">Duplicate
             <br>
-            <button id="upload" onclick="upload()">전송</button>
+            <button id="upload">전송</button>
         </form>
-   {%block error%}  {%endblock%}
-
+    <h3 id="error">{{error}}</h3>
        <script type="text/javascript" src="../static/script.js"></script>
     </body>
 

@@ -9,8 +9,6 @@ $drop.ondrop = (e) => {
 
     // 파일 리스트
     const files = [...e.dataTransfer?.files];
-
-
 }
 
 // ondragover 이벤트가 없으면 onDrop 이벤트가 실핻되지 않습니다.
@@ -28,7 +26,6 @@ $drop.ondragenter = (e) => {
 // 드래그한 파일이 영역을 벗어났을 때
 $drop.ondragleave = (e) => {
     e.preventDefault();
-
     $drop.classList.remove("active");
 }
 //파일을 떨어뜨렸을때
@@ -59,6 +56,8 @@ function changeValue(obj) {
     $drop.removeChild(document.getElementById('btn-choose'));
     $drop.style.textAlign="center";
 }
-function upload(){
-    console.log(document.getElementById('file').files[0]);
-}
+$(window).on('load',function () {
+    if (document.getElementById('error').innerHTML != "") {
+        alert(document.getElementById('error').innerHTML);
+    }
+});

@@ -40,3 +40,7 @@ form{
 .dropBox.active {
   background: #ddd;
 }
+
+#error{
+display: none;
+}
