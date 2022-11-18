@@ -40,3 +40,12 @@ form{
 .dropBox.active {
   background: #ddd;
 }
+
+#error{
+display: none;
+}
+
+input[type=checkbox] {
+  zoom: 1.5;
+  vertical-align: middle; 
+}
