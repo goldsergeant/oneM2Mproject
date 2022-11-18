@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="../static/style.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <title>Extract Attribute Tool 변환 페이지</title>
     </head>
@@ -9,15 +9,19 @@
             <h2>Extract Attribute Tool</h2>
             <hr>
         </header>
-        <form id="form" action="/post" method="post">
+        <form id="form" action="/file_upload" method="post" enctype="multipart/form-data">
         <div class="dropBox">
             <input type="file" id="file" name="file" onchange="changeValue(this)">
             <button id="btn-choose">파일선택</button>
             </div>    
+            <input type="radio" name="choose" value="CSV" checked>csv
+            <input type="radio" name="choose" value="Duplicate">Duplicate
+            <br>
             <button id="upload" onclick="upload()">전송</button>
         </form>
-        <button id="upload" onclick="upload()">전송</button>
-       <script type="text/javascript" src="script.js"></script>
+   {%block error%}  {%endblock%}
+
+       <script type="text/javascript" src="../static/script.js"></script>
     </body>
 
     </html>
