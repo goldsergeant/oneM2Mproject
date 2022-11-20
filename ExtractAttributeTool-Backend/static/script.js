@@ -56,3 +56,19 @@ function changeValue(obj) {
     $drop.removeChild(document.getElementById('btn-choose'));
     $drop.style.textAlign="center";
 }
+
+document.getElementById('upload').addEventListener('click',(e)=>{
+    let files=document.getElementById('file').files;
+    let flag=0;
+    for(const f of files){
+        if(f.name.endsWith('docx')==false)
+            flag=1;
+    }
+    if(flag==0){
+        let p=document.createElement('p');
+        p.setAttribute('class','process');
+        p.innerHTML='please wait one minute';
+        console.log('실행');
+        document.body.insertBefore(p,document.body.firstChild);
+    }
+})

@@ -12,6 +12,11 @@ body{
 h2{
   text-align: center;
 }
+
+.process{
+  position:absolute;
+  top: 10%;
+}
 #file { display:none; } 
 header {
   position: absolute;
