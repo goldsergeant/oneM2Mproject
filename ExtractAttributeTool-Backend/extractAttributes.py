@@ -121,158 +121,121 @@ def findAttributeTable(table:Table, filename:str) -> Union[AttributeTable, None]
 def processDocuments(documents:list[str], outDirectory:str, csvOut:bool) -> Tuple[Attributes, AttributesSN]:
 
 	docs 						= {}
-	ptasks 						= {}
 	attributes:Attributes		= {}		# Mapping short name -> Attribute definition
 	attributesSN:AttributesSN	= {}		# Mapping attribute name -> List of short names
-
-	with Progress(	TextColumn('[progress.description]{task.description}'),
-					BarColumn(),
-					TextColumn('[progress.percentage]{task.percentage:>3.0f}%'),
-					speed_estimate_period=2.0) as progress:
-		
-		def stopProgress(msg:str='') -> None:
-			progress.stop()
-			progress.remove_task(readTask)
-			console.print(msg)
-
-
-		# Preparing tasks for progress
-		readTask 	= progress.add_task(f'Reading document{"s" if len(documents)>1 else ""} ...', total=len(documents))
 
 		#
 		#	Read the input documents and add tasks for each of them
 		#
 
-		for d in documents:
-			if not (dp := Path(d)).exists():
-				stopProgress(f'[red]Input document "{d}" does not exist')
-				return None, None
-			if not dp.is_file():
-				stopProgress(f'[red]Input document "{d}" is not a file')
-				return None, None
-			try:
-				docs[d] = Document(d)
-				ptasks[d] = progress.add_task(f'Processing {d} ...', total = 1000)
-				progress.update(readTask, advance=1)
-			except docx.opc.exceptions.PackageNotFoundError as e:
-				stopProgress(f'[red]Input document "{d}" is not a .docx file')
-				return None, None
-			except Exception as e:
-				stopProgress(f'[red]Error reading file "{d}"')
-				console.print_exception()
-				return None, None
-		
-		# Add additional task
-		checkTask	= progress.add_task('Checking results ...', total=2)
-		writeTask	= progress.add_task('Writing files ...', total = 2+len(documents) if csvOut else 2)
+	for d in documents:
+		if not (dp := Path(d)).exists():
+			return None, None
+		if not dp.is_file():
+			return None, None
+		try:
+			docs[d] = Document(d)
+		except docx.opc.exceptions.PackageNotFoundError as e:
+			return None, None
+		except Exception as e:
+			console.print_exception()
+			return None, None
+	
+	#
+	#	Process documents
+	#
 
-		#
-		#	Process documents
-		#
-
-		for docName, doc in docs.items():
-			processTask = ptasks[docName]
-
-			# Process the document
-			progress.update(processTask, total=len(doc.tables))
-			for table in doc.tables:
-				progress.update(processTask, advance=1)
-				if (snt := findAttributeTable(table, docName)) is None:
-					continue
-				headersLen = len(snt.headers)
-				for r in table.rows[1:]:
-					cells = r.cells
-					if cells[0].text.lower().startswith('note:') or len(r.cells) != headersLen:	# Skip note cells
-						continue
-
-					# Extract names and do a bit of transformations
-					attributeName	= unidecode(cells[snt.attribute].text).strip()
-					shortnameOrig	= unidecode(cells[snt.shortname].text.replace('*', '').strip())
-					shortname 		= shortnameOrig.lower()
-					occursIn 		= map(str.strip, unidecode(cells[snt.occursIn].text).split(',')) if snt.occursIn > -1 else ['n/a']	# Split and strip 'occurs in' entries
-					
-					# Don't process empty shortnames
-					if not shortname:	
-						continue
-
-					# Create or update entry for shortname
-					if shortname in attributes:
-						entry = attributes[shortname]
-						for v in occursIn:
-							entry.occursIn.add(v)
-						entry.categories.add(snt.category)
-						entry.documents.add(os.path.basename(docName))
-						entry.occurences += 1
-					else:
-						entry = Attribute(	shortname = shortname,
-											shortnameOrig = shortnameOrig,
-											attribute = attributeName,
-											occurences = 1,
-											occursIn = set([ v for v in occursIn ]),
-											categories = set([ snt.category ]),
-											documents = set([ os.path.basename(docName) ])
-										)
-					
-					attributes[shortname] = entry
-
-					# Add the entry to the mapping list between attributes and short names. This is a list!
-					if (al := attributesSN.get(entry.attribute)):
-						# only add the entry to the mapping attributes -> entry if the shortname is different
-						if len([ sn for sn in al if sn == entry.shortname ]) == 0:
-							al.append(entry.shortname)
-					else:
-						attributesSN[entry.attribute] = [ entry.shortname ]
+	for docName, doc in docs.items():
+		# Process the document
+		for table in doc.tables:
+			if (snt := findAttributeTable(table, docName)) is None:
 				continue
+			headersLen = len(snt.headers)
+			for r in table.rows[1:]:
+				cells = r.cells
+				if cells[0].text.lower().startswith('note:') or len(r.cells) != headersLen:	# Skip note cells
+					continue
 
-		#
-		#	Further tests
-		#
-		progress.update(checkTask, advance = 1)
+				# Extract names and do a bit of transformations
+				attributeName	= unidecode(cells[snt.attribute].text).strip()
+				shortnameOrig	= unidecode(cells[snt.shortname].text.replace('*', '').strip())
+				shortname 		= shortnameOrig.lower()
+				occursIn 		= map(str.strip, unidecode(cells[snt.occursIn].text).split(',')) if snt.occursIn > -1 else ['n/a']	# Split and strip 'occurs in' entries
+				
+				# Don't process empty shortnames
+				if not shortname:	
+					continue
 
-		# count duplicates and duplicate attribute -> shortnames
-		countDuplicates = 0
-		for shortname, attribute in attributes.items():
-			countDuplicates += 1 if attribute.occurences > 1 else 0
-		progress.update(checkTask, advance=1)
-		countDuplicatesSN = 0
-		for sns in attributesSN.values():
-			countDuplicatesSN += 1 if len(sns) > 1 else 0
+				# Create or update entry for shortname
+				if shortname in attributes:
+					entry = attributes[shortname]
+					for v in occursIn:
+						entry.occursIn.add(v)
+					entry.categories.add(snt.category)
+					entry.documents.add(os.path.basename(docName))
+					entry.occurences += 1
+				else:
+					entry = Attribute(	shortname = shortname,
+										shortnameOrig = shortnameOrig,
+										attribute = attributeName,
+										occurences = 1,
+										occursIn = set([ v for v in occursIn ]),
+										categories = set([ snt.category ]),
+										documents = set([ os.path.basename(docName) ])
+									)
+				
+				attributes[shortname] = entry
 
-		#
-		#	generate outputs
-		#
+				# Add the entry to the mapping list between attributes and short names. This is a list!
+				if (al := attributesSN.get(entry.attribute)):
+					# only add the entry to the mapping attributes -> entry if the shortname is different
+					if len([ sn for sn in al if sn == entry.shortname ]) == 0:
+						al.append(entry.shortname)
+				else:
+					attributesSN[entry.attribute] = [ entry.shortname ]
+			continue
 
-		# Write JSON output to a file
-		progress.update(writeTask, advance=1)
-		with open(f'{outDirectory}{os.sep}attributes.json', 'w') as jsonFile:
-			json.dump([ v.asDict() for v in attributes.values()], jsonFile, indent=4)
+	#
+	#	Further tests
+	#
 
-		# Write output to CSV files
-		# TODO move to extra function
-		if csvOut:
-			for docName, doc in docs.items():			# Individually for each input file
-				progress.update(writeTask, advance=1)
-				# write a sorted list of attribute / shortnames to a csv file
-				with open(f'{outDirectory}{os.sep}{docName.rsplit(".", 1)[0] + ".csv"}', 'w') as csvFile:
-					writer = csv.writer(csvFile)
-					writer.writerow(['Attribute', 'Short Name'])
-					writer.writerows(	
-						sorted(
-							[ [attr.attribute, attr.shortnameOrig] for attr in attributes.values() if docName in attr.documents ],
-							key=lambda x: x[0].lower() ))	# type: ignore [index]
+	# count duplicates and duplicate attribute -> shortnames
+	countDuplicates = 0
+	for shortname, attribute in attributes.items():
+		countDuplicates += 1 if attribute.occurences > 1 else 0
+	countDuplicatesSN = 0
+	for sns in attributesSN.values():
+		countDuplicatesSN += 1 if len(sns) > 1 else 0
 
-		progress.update(writeTask, advance=1)
+	#
+	#	generate outputs
+	#
 
-		#
-		# finished. print further infos
-		#
+	# Write JSON output to a file
+	with open(f'{outDirectory}{os.sep}attributes.json', 'w') as jsonFile:
+		json.dump([ v.asDict() for v in attributes.values()], jsonFile, indent=4)
 
-		progress.stop()
-		console.print(f'Processed short names:               {len(attributes)}')
-		if countDuplicates > 0:
-			console.print(f'Duplicate definitions:               {countDuplicates}')
-		if countDuplicatesSN > 0:
-			console.print(f'Duplicate definitions (short names): {countDuplicatesSN}')
+	# Write output to CSV files
+	# TODO move to extra function
+	if csvOut:
+		for docName, doc in docs.items():			# Individually for each input file
+			# write a sorted list of attribute / shortnames to a csv file
+			with open(f'{outDirectory}{os.sep}{docName.rsplit(".", 1)[0] + ".csv"}', 'w') as csvFile:
+				writer = csv.writer(csvFile)
+				writer.writerow(['Attribute', 'Short Name'])
+				writer.writerows(	
+					sorted(
+						[ [attr.attribute, attr.shortnameOrig] for attr in attributes.values() if docName in attr.documents ],
+						key=lambda x: x[0].lower() ))	# type: ignore [index]
+
+	#
+	# finished. print further infos
+	#
+	console.print(f'Processed short names:               {len(attributes)}')
+	if countDuplicates > 0:
+		console.print(f'Duplicate definitions:               {countDuplicates}')
+	if countDuplicatesSN > 0:
+		console.print(f'Duplicate definitions (short names): {countDuplicatesSN}')
 
 
 	return attributes, attributesSN

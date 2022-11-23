@@ -7,6 +7,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+downloadedFile*
+out*
+
 # C extensions
 *.so
 
@@ -141,6 +144,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/downloadedFile
+/out
 
 # mypy
 .mypy_cache/
