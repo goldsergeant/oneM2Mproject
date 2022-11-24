@@ -17,9 +17,8 @@ from docx.table import Table
 import docx.opc.exceptions
 from unidecode import unidecode
 from rich.console import Console
-from rich.progress import Progress, TextColumn, BarColumn
-from rich.console import Console
-from rich.table import Table
+from threading import Thread
+import time
 
 
 # TODO Table/output sorting choices
@@ -118,7 +117,40 @@ def findAttributeTable(table:Table, filename:str) -> Union[AttributeTable, None]
 	return None
 
 
+
+progress = 0
+progressTotal = 0
+limit = 0
+
+def progressAdd(n):
+	global progressTotal
+	print(n)
+	progressTotal = 100 * n
+
+def progressUpdate():
+	global limit
+	global progress
+	while True:
+		while progress < limit:
+			time.sleep(0.3)
+			count += 2
+			progress = count
+			
+		count = limit
+		time.sleep(1)
+		
+
+def getProgress() -> int:
+	global progress
+	global progessTotal
+	global limit
+	print(f'limit: {limit}, progressTotal: {progressTotal}, progress: {progress}')
+	return int(progress / progressTotal * 100)
+
+	
 def processDocuments(documents:list[str], outDirectory:str, csvOut:bool) -> Tuple[Attributes, AttributesSN]:
+	progressThread = Thread(target=progressUpdate, daemon=True)
+	progressThread.start()
 
 	docs 						= {}
 	attributes:Attributes		= {}		# Mapping short name -> Attribute definition
@@ -145,7 +177,12 @@ def processDocuments(documents:list[str], outDirectory:str, csvOut:bool) -> Tupl
 	#	Process documents
 	#
 
+	i = 1
 	for docName, doc in docs.items():
+		global limit
+		limit = 100 * i
+		i += 1
+		
 		# Process the document
 		for table in doc.tables:
 			if (snt := findAttributeTable(table, docName)) is None:
@@ -194,6 +231,8 @@ def processDocuments(documents:list[str], outDirectory:str, csvOut:bool) -> Tupl
 				else:
 					attributesSN[entry.attribute] = [ entry.shortname ]
 			continue
+		
+		
 
 	#
 	#	Further tests

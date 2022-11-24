@@ -8,15 +8,15 @@ import pathlib
 import time
 import random
 import shutil
+from threading import Thread
 
 app = Flask(__name__)
 
-# @app.before_request
-# def before_request():
-#     # csv, dup 받아오기
-#     csv_checked = request.form.get('csv')
-#     dup_checked = request.form.get('dup')
 
+def testThread():
+    while True:
+        time.sleep(1)
+        print(extractAttributes.getProgress())
 
 @app.route('/')
 def index():
@@ -46,6 +46,12 @@ def file_upload():
             except:
                 continue
 
+        # 테스트 용 코드
+        #thread = Thread(target=testThread, daemon=True)
+        #thread.start()
+
+        # 파일 1개당 progress 100 추가
+        extractAttributes.progressAdd(len(files))
         for f in files:
             # file extension check
             if secure_filename(f.filename).endswith(".docx") == False:
@@ -53,8 +59,7 @@ def file_upload():
             f.save(f'{directory}{os.path.sep}' + f.filename)
             documents.append(f'{directory}{os.path.sep}' + f.filename)
         attributes, attributesSN = extractAttributes.processDocuments(documents, outDirectory, csvOut)
-
-        # TODO csv나 dup 옵션 받아서 처리
+        
         if not attributes:
             exit(1)
         if csv_checked:
@@ -63,7 +68,6 @@ def file_upload():
             extractAttributes.printDuplicateCsv(attributes, attributesSN, outDirectory)
 
 
-        
         # 파일 삭제
         @after_this_request
         def remove_file(response):
@@ -104,6 +108,12 @@ def file_upload():
     else: 
         return redirect('/')
  
+
+# 진행상황 확인
+@app.route('/progress')
+def progress():
+    return extractAttributes.getProgress()
+
 		
 if __name__ == '__main__':
     app.run(debug = True, threaded=True)
