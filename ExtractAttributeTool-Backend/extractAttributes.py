@@ -122,6 +122,12 @@ progress = 0
 progressTotal = 1
 limit = 0
 
+def progressInit():
+	global progress, progressTotal, limit
+	progress = 0
+	progressTotal = 1
+	limit = 0
+
 def progressAdd(n):
 	global progressTotal
 	print(n)
@@ -131,18 +137,20 @@ def progressUpdate():
 	global limit
 	global progress
 	while True:
-		while progress < limit:
+		while progress < limit - 6:
 			time.sleep(0.3)
-			count += 2
-			progress = count
-			
-		count = limit
+			progress += 2
 		time.sleep(1)
+
+def progressFull():
+	global progress
+	global progressTotal
+	progress = progressTotal
 		
 
 def getProgress() -> int:
 	global progress
-	global progessTotal
+	global progressTotal
 	global limit
 	print(f'limit: {limit}, progressTotal: {progressTotal}, progress: {progress}')
 	return int(progress / progressTotal * 100)
@@ -276,6 +284,7 @@ def processDocuments(documents:list[str], outDirectory:str, csvOut:bool) -> Tupl
 	if countDuplicatesSN > 0:
 		console.print(f'Duplicate definitions (short names): {countDuplicatesSN}')
 
+	progressFull()
 
 	return attributes, attributesSN
 

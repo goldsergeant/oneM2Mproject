@@ -24,7 +24,7 @@ function getProgress(){
          
     });
 }
-let interval=setInterval(getProgress,1000);
+let interval;
 
 // 드래그한 파일 객체가 해당 영역에 놓였을 때
 $drop.ondrop = (e) => {
@@ -82,6 +82,8 @@ function changeValue(obj) {
 }
 
 document.getElementById('upload').addEventListener('click',(e)=>{
+    interval=setInterval(getProgress,1000);
+
     let files=document.getElementById('file').files;
     let flag=0;
     for(const f of files){
