@@ -119,7 +119,7 @@ def findAttributeTable(table:Table, filename:str) -> Union[AttributeTable, None]
 
 
 progress = 0
-progressTotal = 0
+progressTotal = 1
 limit = 0
 
 def progressAdd(n):

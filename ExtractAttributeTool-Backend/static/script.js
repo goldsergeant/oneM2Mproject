@@ -1,6 +1,30 @@
 const $drop = document.querySelector(".dropBox");
 const $title = document.querySelector(".dropBox h1");
 var file;
+const url=window.location.href+"progress";
+
+function getProgress(){
+    	
+    $.ajax({
+        type : "GET", //전송방식을 지정한다 (POST,GET)
+        url : url,//호출 URL을 설정한다. GET방식일경우 뒤에 파라티터를 붙여서 사용해도된다.
+        dataType : "text",//호출한 페이지의 형식이다. xml,json,html,text등의 여러 방식을 사용할 수 있다.
+        error : function(){
+            if(url.indexOf('process')>-1){
+                window.location.href=url.split('/')[0];
+            }
+            },
+        success : function(Parse_data){
+            $("#Parse_Area").html(Parse_data); //div에 받아온 값을 넣는다.
+            document.getElementById('progress').value=Parse_data;
+            if(Parse_data>=100){
+                clearInterval(interval);
+            }
+        }
+         
+    });
+}
+let interval=setInterval(getProgress,1000);
 
 // 드래그한 파일 객체가 해당 영역에 놓였을 때
 $drop.ondrop = (e) => {
@@ -65,10 +89,6 @@ document.getElementById('upload').addEventListener('click',(e)=>{
             flag=1;
     }
     if(flag==0){
-        let p=document.createElement('p');
-        p.setAttribute('class','process');
-        p.innerHTML='please wait one minute';
-        console.log('실행');
-        document.body.insertBefore(p,document.body.firstChild);
+        document.getElementById('progressBox').style.visibility="visible";
     }
 })

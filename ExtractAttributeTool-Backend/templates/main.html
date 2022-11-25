@@ -11,6 +11,9 @@
         <h2>Extract Attribute Tool</h2>
         <hr>
     </header>
+    <div id="progressBox">
+     <progress id="progress" value="0" max="100"></progress> <span class="downloading"style="font-size: 10px;">downloading...</span>
+    </div>
     <form id="form" action="/process" method="post" enctype="multipart/form-data">
         <div class="dropBox">
             <input type="file" id="file" name="file[]" onchange="changeValue(this)" multiple="">

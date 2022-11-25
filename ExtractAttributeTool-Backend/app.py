@@ -112,7 +112,7 @@ def file_upload():
 # 진행상황 확인
 @app.route('/progress')
 def progress():
-    return extractAttributes.getProgress()
+    return str(extractAttributes.getProgress())
 
 		
 if __name__ == '__main__':
