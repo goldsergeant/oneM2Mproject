@@ -32,6 +32,7 @@ def file_upload():
         csvOut = False
         documents = []
         num = 0
+        extractAttributes.progressInit()
 
         while True:
             try:
@@ -47,8 +48,8 @@ def file_upload():
                 continue
 
         # 테스트 용 코드
-        #thread = Thread(target=testThread, daemon=True)
-        #thread.start()
+        thread = Thread(target=testThread, daemon=True)
+        thread.start()
 
         # 파일 1개당 progress 100 추가
         extractAttributes.progressAdd(len(files))
