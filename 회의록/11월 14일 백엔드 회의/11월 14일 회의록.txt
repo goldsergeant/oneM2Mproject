@@ -1,0 +1,73 @@
+11월 14일 월요일 회의  
+참석자 : 김가은, 송정원, 정기성
+
+(Backend 부분의 회의를 위해 담당 정기성, 김가은, 송정원 만 참석)
+
+정기성 님께서 구축하신 app.py 파일을 중점적으로 이야기를 나눴다. 
+---------------------------------------------------------------------
+def index():
+    return render_template('main.html')
+## 플라스크는 render_template 모듈을 통해서 .html파일을 렌더링 하여 브라우저를 통해 보여주게 함. 
+
+@app.route('/file_upload', methods = ['GET', 'POST'])
+def file_upload():
+##( 참고 : os는 운영체제가 무엇인지 상관없이 인식되게 하는 것) route를 통해서 어떤 파일이 업로드 되는지 본다. 방법은 두 개가 된다. GET되는 것과 POST되는 것 
+    # 기존 파일 삭제
+    for file in os.scandir('./downloadedFile'): 
+        os.remove(file.path)
+    for file in os.scandir('./out'):
+        os.remove(file.path)
+## 기존에 해당되는 파일이 있으면 삭제를 한다.
+    if request.method == 'POST': ##'post'상태가 되어야지만 file불러와서 f에 넣고 f를 다운로드 파일에 
+        f = request.files['file']
+        f.save('downloadedFile/' + secure_filename(f.filename))
+        return redirect('/process/' + secure_filename(f.filename))
+##request.files[] 객체에서 파일을 가져와 secure_filename() 함수를 이용하여 파일명을 암호화 한 후 임시 위치에 저장한 후, 최종적으로 기본 위치에 파일을 저장한다.
+    else: 
+        return render_template('main.html')
+## 아무것도 없으면 다시
+ 
+# 파일명 받아서 처리하는 페이지
+@ap>')
+def process(filename):
+    outDirectory = "./out"
+    csvOut = False
+##현재는 추출이 csv 형식이 아니므로 False로 둠
+    documents = ['./downloadedFile/' + filename]
+    attributes, attributesSN = extractAttributes.processDocuments(documents, outDirectory, csvOut)
+    return redirect('/download/' + filename)
+
+@app.route('/download/<filename>')
+def Download_File(filename):
+    PATH='./out/' + 'attributes.json'
+    return send_file(PATH,as_attachment=True)
+## 이게 json형식으로 추출하는 아이라서 json형식으로 파일을 저장하는 것
+if __name__ == '__main__':
+    app.run(debug = True)
+
+----------------------------------------------------------------------
+
+
+1. 위의 코드는 프론트에서 파일 업로드 하면 -> 바로 추출된 특성들이 json형식이 되어 다운로드 되게 하는 코드이다.
+2. 추가적으로 필요하다고 나온 것 : “docx 파일만 넣어주세요"라는 문구 추가 필요함 (이전 버전은 들어가지 않으므로) //예외처리 -> 형식이 안맞으면 맞지 않는다고 나오게 하는 것
+3. 추후 프론트 부분에서 금한림 님께서 csv 옵션을 true로 할 경우 해당 값을 백엔드에게 보내면 request해서 불러와 1값을 csv.out 부분에 넣어 csv 파일로 추출하도록 할 예정이다. 
+
+
+->최종으로 json형식 이외에 XML형식으로도 파일을 뽑아내는 것은 어떤가? 의견이 나왔는데 해당 부분에 있어서 ONEM2M에서 XML형식을 다른 것으로 변환하는 기술이 있는 것을 보았을 때 활용도가 떨어지며 json형식이 더 활용성 면에서 낫다고 판단되어 취소하였다.
+
+
+// 예외처리 부분 (송정원 -> 정기성 님께 의논드릴 부분) : 
+def process(filename):
+    import docx
+    outDirectory = "./out"
+    csvOut = False
+    documents = ['./downloadedFile/' + filename]
+    try:
+        contents=docx.Document(documents)
+    except FileNotFoundError:
+        msg = "Sorry, the file "+ filename + "does not exist."
+        print(msg) 
+   attributes, attributesSN = extractAttributes.processDocuments(documents, outDirectory, csvOut)
+    return redirect('/download/' + filename)
+
+로 정기성님의 app.py파일의 프로세스 부분을 수정하면 되지 않을까 싶어서 추후 정기성님께 문의 드릴 예정.

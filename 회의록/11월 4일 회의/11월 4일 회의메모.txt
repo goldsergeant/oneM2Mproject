@@ -1,0 +1,11 @@
+11월 4일
+
+참여자 :  금한림 김가은 정기성 송정원
+
+1. 송정원 김가은
+read me 파일, setup.py, attributes.jason 파일 분석하고 깃허브를 통해서 문서 작성하기 
+
+2. 정기성 금한림
+extract attribute 파일 최종 코드 분석하고 깃허브를 통해서 문서 작성하고 파일 수정하기
+
+3. github desktop을 이용한 깃허브 이용하기
