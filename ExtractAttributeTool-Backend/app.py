@@ -98,7 +98,6 @@ def file_upload():
             data = io.BytesIO()
             with open(file_path, 'rb') as fo:
                 data.write(fo.read())
-            # (after writing, cursor will be at last byte, so move it to start)
             data.seek(0)
 
             return send_file(
